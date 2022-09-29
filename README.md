@@ -7,7 +7,7 @@ read [the wikipedia article](https://en.wikipedia.org/wiki/Extract,_transform,_l
 ## Purpose
 
 This is a sample application with real-life scenario code. It is to be used for anyone interested in data analytics
-and they wish to have a real-life project to mimic and built on top of.
+who wishes to have a real-life project to mimic and build on top of.
 
 I encourage you to make a clone of this
 project, [create a new github project](https://docs.github.com/en/get-started/quickstart/create-a-repo), change
@@ -176,14 +176,14 @@ Try any or all.
 
 - Try to create a similar app that feeds into a [PostgreSQL database](https://www.postgresql.org/)
   . [Hint: You could look into using [SQLAlchemy](https://www.sqlalchemy.org/)]
-- Or try to raw data the data in PostgreSQL at a given interval either as
-  a [cronjob](https://www.geeksforgeeks.org/how-to-setup-cron-jobs-in-ubuntu/) or an in-process scheduler
+- Or try to dump the raw data into PostgreSQL at a given interval either as
+  a [cronjob](https://www.geeksforgeeks.org/how-to-setup-cron-jobs-in-ubuntu/) or using an in-process scheduler
   like [schedule](https://schedule.readthedocs.io/en/stable/) or [celery](https://docs.celeryq.dev/en/stable/).
-  Using this data, open up a [jupyter notebook](https://jupyter.org/install) and connect to the database
+  Open up a [jupyter notebook](https://jupyter.org/install) and connect to the database
   using [psycopg2-binary](https://pypi.org/project/psycopg2-binary/) and study the
   data, formulate any analytical questions you can about the data and plot graphs with matplotlib.
 - Or use [dbeaver](https://dbeaver.io/) or [DataGrip](https://www.jetbrains.com/datagrip/) to run SQL queries on that
-  raw data you got above to get a picture of what analytical questions to ask.
+  raw data to get a picture of what analytical questions to ask.
 - Look into [Prefect](https://www.prefect.io/) and [Airflow](https://airflow.apache.org/). How can they improve your
   ETL pipeline above?
 
