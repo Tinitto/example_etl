@@ -193,5 +193,7 @@ Copyright (c) 2022 [Martin Ahindura](https://github.com/tinitto). Licensed under
 
 ## Gratitude
 
-To God.
+All glory be to God.
+
+<a href="https://www.buymeacoffee.com/martinahinJ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
